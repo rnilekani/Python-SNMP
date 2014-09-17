@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 
+
+
 '''
-HOW TO USE SNMP_HELPER LIBRARY 
+HOW TO USE SNMP_HELPER LIBRARY IN PYTHON
+
+Created by Ron Nilekani
 '''
 
 
