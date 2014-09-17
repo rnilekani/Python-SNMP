@@ -49,12 +49,12 @@ def main():
 	'''
 	DEBUG = False
 	
-	COMMUNITY_STRING = 'galileo'
-	IP = '50.242.94.227'
+	COMMUNITY_STRING = 'secret'
+	IP = '1.1.1.1'
 	
 	my_devices = {
-		"pynet_rtr1": (IP, COMMUNITY_STRING, 7961),
-		"pynet_rtr2": (IP, COMMUNITY_STRING, 8061),
+		"Device1": (IP, COMMUNITY_STRING, 7061),
+		"Device2": (IP, COMMUNITY_STRING, 8061),
 	}
 
 	#Uptime when running config last changed
