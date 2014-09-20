@@ -1,6 +1,6 @@
 Python-SNMP
 ===========
-This is how we use the library. I shall explain with an example.
+This is how we use the library. I shall explain with an example. I will spend some time later on formatting and provide more details.
 
 [rnilekani@XX.XX.XX.XX]$ python snmp_script.py 
 
