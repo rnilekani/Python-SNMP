@@ -1,5 +1,5 @@
 '''
-This script shows how to send emails via Python.
+This script shows how to send emails via Python when you detect changes via SNMP
 '''
 
 def send_mail(recipient, subject, message, sender):
