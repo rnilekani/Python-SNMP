@@ -1,1 +1,6 @@
-http://pymotw.com/2/urllib2/
+
+
+apt-get install python-pip
+apt-get install pysnmp
+apt-get install python-jsonpickle
+
