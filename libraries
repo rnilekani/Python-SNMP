@@ -5,3 +5,4 @@ apt-get install pysnmp
 apt-get install python-jsonpickle
 sudo apt-get install python-pip python-dev build-essential 
 pip install pygal
+pip install requests (RESTFUL API)
