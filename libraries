@@ -6,3 +6,5 @@ apt-get install python-jsonpickle
 sudo apt-get install python-pip python-dev build-essential 
 pip install pygal
 pip install requests (RESTFUL API)
+
+https://developer.cisco.com/media/onePKGettingStarted-v1-1-0/GUID-0A9F0D33-1027-442C-A516-D21F9B0FA3BF.html
