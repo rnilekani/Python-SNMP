@@ -10,3 +10,17 @@ pip install requests (RESTFUL API)
 https://developer.cisco.com/media/onePKGettingStarted-v1-1-0/GUID-0A9F0D33-1027-442C-A516-D21F9B0FA3BF.html
 
 http://cybermashup.com/2014/01/20/first-steps-with-arista-networks/
+
+
+
+Ansible modules for Network Automation.
+
+
+http://oss-stack.io/blog/ansible-network-automation/
+
+http://www.juniper.net/techpubs/en_US/junos-ansible1.0/topics/reference/general/junos-ansible-modules-overview.html
+http://www.jedelman.com/home/ansible-for-networking
+
+
+https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+http://docs.ansible.com/apt_module.html
