@@ -30,3 +30,17 @@ Doc for setting up Arista Virtual Environment.
 http://www.gad.net/Blog/2012/10/27/building-a-virtual-lab-with-arista-veos-and-virtualbox/
 https://blogs.oracle.com/fatbloke/entry/networking_in_virtualbox1
 https://www.arista.com/assets/data/pdf/TechBulletins/Tech_bulletin_ZTP.pdf
+
+
+
+############
+Open Vswitch
+
+http://networkstatic.net/openflow-openvswitch-lab/
+http://networkstatic.net/setting-overlays-open-vswitch/
+
+
+http://keepingitclassless.net/2014/07/sdn-protocols-new-series/
+http://openvswitch.org/
+
+http://blog.scottlowe.org/2012/08/17/installing-kvm-and-open-vswitch-on-ubuntu/
