@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 
 
-'''
+"""
 
 Note, you will need to update the IP and COMMUNITY_STRING to use this script.
 
-'''
+"""
 
 from snmp_helper import snmp_get_oid,snmp_extract
 
