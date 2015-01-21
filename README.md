@@ -1,4 +1,4 @@
-Python-SNMP
+SNMP Library for Python Devs
 
 
 ===========
